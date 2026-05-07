@@ -132,6 +132,7 @@ pycparser==2.22
 pydantic==1.6.2
     # via -r requirements.in
 pymysql[rsa]==1.1.1
+psycopg2-binary==2.9.9
     # via
     #   -r requirements.in
     #   pymysql
